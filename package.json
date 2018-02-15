@@ -37,7 +37,11 @@
     "comma-it": "~0.0.4",
     "csrf-lite": "0.1",
     "graceful-fs": "~1.2.0",
-    "async-cache": "~0.1.2"
+    "async-cache": "~0.1.2",
+    "boom": "6.0.0",
+    "cryptiles": "4.0.1",
+    "hoek": "5.0.3",
+    "sntp": "3.0.0"
   },
   "engines": {
     "node": ">=0.7.7"
