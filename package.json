@@ -6,7 +6,7 @@
   "version": "0.0.3",
   "dependencies": {
     "request": "~2.16.6",
-    "marked": "~0.2.4",
+    "marked": "~0.4.0",
     "redis": "~0.8.1",
     "lru-cache": "~2.3.0",
     "cluster-master": "~0.1.0",
